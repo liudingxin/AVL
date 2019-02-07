@@ -1,1 +1,1 @@
-﻿# 各种真空设备的Arduino驱动库 [![Build Status]## 设备库列表- TamaGawa 真空计   taGauge.h
+﻿﻿﻿# AVL - 各种真空设备的Arduino驱动库 [![Build Status]## 设备库列表- taGauge：TamaGawa 真空计，包括PG500+DM100皮拉尼真空计，PG600，PG700，和CCG系列真空计的真空值读取和功能设置。
