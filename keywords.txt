@@ -1,0 +1,3 @@
+vacGauge	KEYWORD1
+setGauge	KEYWORD2
+read	KEYWORD2
